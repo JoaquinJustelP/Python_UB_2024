@@ -4,8 +4,8 @@
 ## Notebooks
 
 ### Día 1
-* [Introducción](Clase_I_Python.ipynb)
-* [Numpy](Numpy.ipynb)
+* [Introducción]()
+* [Numpy]()
 
 
 
