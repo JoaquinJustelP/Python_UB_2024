@@ -7,7 +7,10 @@
 * [Introducción](Clase_I_Python.ipynb)
 * [Numpy](Numpy.ipynb)
 
-
+### Día 2
+* [Pandas](Pandas.ipynb)
+* [Ejemplo Pandas](Pandas_snippets.ipynb)
+* [Visualización](Visualizacion.ipynb)
 
 
 
