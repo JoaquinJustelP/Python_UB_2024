@@ -3,17 +3,17 @@
 
 ## Notebooks
 
-### Día 1
+### Día 1 - Introducción a Python
 * [Introducción](Clase_I_Python.ipynb)
 * [Numpy](Numpy.ipynb)
 
-### Día 2
+### Día 2 - Introducción a Python II
 * [Pandas](Pandas.ipynb)
 * [Ejemplo Pandas](Pandas_snippets.ipynb)
 * [Visualización](Visualizacion.ipynb)
 
-
-
+### Día 3 - Aprendizaje no supervisado
+* [Unsupervised Learning]
 
 
 ## Requerimientos
