@@ -13,7 +13,11 @@
 * [Visualización](Visualizacion.ipynb)
 
 ### Día 3 - Aprendizaje no supervisado
-* [Unsupervised Learning]
+* [Unsupervised Learning](Aprendizaje_no_supervisado__PCA.ipynb)
+* [Clustering](Clustering.ipynb)
+* [Cluster Comparisson](Cluster_comparisson.ipynb)
+* [K-means](kmeans_example.ipynb)
+* [DBSCAN](DBSCAN.ipynb)
 
 
 ## Requerimientos
